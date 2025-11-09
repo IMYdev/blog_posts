@@ -16,3 +16,5 @@ def hello():
 ```
 ## Why I built this
 I wanted to make a blog to share stories behind my projects, difficulties I faced and what motivated me to finish/keep maintaining them. Basically: a place to share my feelings about my projects if you will.
+
+#### Source code available on [Github](https://github.com/IMYdev/blog).
