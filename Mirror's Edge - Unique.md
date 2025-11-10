@@ -4,6 +4,7 @@
 Let's take a moment to appreciate those graphics:
 
 [![Graphics showcase.](https://iili.io/KmVTdrP.md.jpg)](https://freeimage.host/i/KmVTdrP)
+
 Mirror's Edge, released in 2008, looked like this.
 Such graphics still look good even today, 17 years later... *But how?*
 
@@ -41,4 +42,5 @@ But more importantly, the artists were certainly not leashed and that is the res
 And because the game didn't invent or try anything crazy tech-wise, their decision of targeting an average of 60FPS on consoles and PC at the time was acheivable, *what* they used was regular tech, but the *how* really stands out to this day.
 
 I leave you with the game's intro:
+
 [![](https://i.ytimg.com/vi/9VRv-hugwUg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDH3WnENcVTsEOr3xFkvvFEhIp1w)](https://www.youtube.com/watch?v=9VRv-hugwUg&pp=ygUTbWlycm9yJ3MgZWRnZSBpbnRybw%3D%3D)
