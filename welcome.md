@@ -1,4 +1,6 @@
-09/11/25
+Title: Welcome
+Date: 09/11/25
+
 # Hello World!
 
 Hey! This is the first post on this blog, and I decided it's going to be about the blog itself.

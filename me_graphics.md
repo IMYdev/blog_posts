@@ -1,4 +1,6 @@
-10/11/25
+Title: Mirror's Edge - Unique
+Date: 10/11/25
+
 # The graphics of Mirror's Edge.
 
 Let's take a moment to appreciate those graphics:
