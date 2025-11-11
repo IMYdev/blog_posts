@@ -26,7 +26,7 @@ These aesthetics were nailed down well, DICE, the studio behind this game, execu
 The environment is too clean, places are too minimal... Unsetteling yet calming.
 These facts help keep the integrity of the art style, design and gameplay pretty well.
 
-[![KmVRv6l.md.jpg](https://iili.io/KmVRv6l.md.jpg)](https://freeimage.host/i/KmVRv6l)
+![KmVRv6l.md.jpg](https://iili.io/KmVRv6l.jpg)
 
 ## The UI
 *there was no HUD, but there was __runner's vision__*
