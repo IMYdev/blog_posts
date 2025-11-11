@@ -5,7 +5,7 @@ Date: 10/11/25
 
 Let's take a moment to appreciate those graphics:
 
-[![Graphics showcase.](https://iili.io/KmVTdrP.md.jpg)](https://freeimage.host/i/KmVTdrP)
+![Graphics showcase.](https://iili.io/KmVTdrP.jpg)
 
 Mirror's Edge, released in 2008, looked like this.
 Such graphics still look good even today, 17 years later... *But how?*
@@ -16,9 +16,9 @@ Such graphics still look good even today, 17 years later... *But how?*
 Mirror's Edge didn't try to be realistic, but it followed its own set of rules for how things should look like.
 These aesthetics were nailed down well, DICE, the studio behind this game, executed this style brilliantly.
 
-[![Aesthetics](https://iili.io/KmVRu3B.md.jpg)](https://freeimage.host/i/KmVRu3B)
-[![Aesthetics](https://iili.io/KmVRkG4.md.jpg)](https://freeimage.host/i/KmVRkG4)
-[![Aesthetics](https://iili.io/KmVACfp.md.jpg)](https://freeimage.host/i/KmVACfp)
+![Aesthetics](https://iili.io/KmVRu3B.jpg)
+![Aesthetics](https://iili.io/KmVRkG4.jpg)
+![Aesthetics](https://iili.io/KmVACfp.jpg)
 
 ## The world
 *a totalitarian society that values sterile conformity over individual freedom.*
